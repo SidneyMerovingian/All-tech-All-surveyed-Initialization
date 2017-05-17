@@ -77,14 +77,14 @@ Hyperdimensional Jump Drive(200%+ Jump Range)
 7. 我写mod时没有什么替换的文件，而且有刻意避免冲突，所以兼容性很好。
 
 注意：
-不要同时使用飞升事件全开法令"Experience Every Ascension Route"和科技全开法令"Research Every Technology"，很容易造成崩溃退出。请先用其中飞升事件全开法令解锁飞升事件后再开启科技全开法令，或者先用科技法令把不可重复科技研究完之后再开启飞升事件法令。
-因为科技全开法令第一个月一次性送很多科技，所以开启科技全开法令后第1个月请把时间调到2格或以下，不然很容易崩。
+1.不要同时使用飞升事件全开法令"Experience Every Ascension Route"和科技全开法令"Research Every Technology"，很容易造成崩溃退出。请先用其中飞升事件全开法令解锁飞升事件后再开启科技全开法令，或者先用科技法令把不可重复科技研究完之后再开启飞升事件法令。
+2.因为科技全开法令第一个月一次性送很多科技，所以开启科技全开法令后第1个月请把时间调到2格或以下，不然很容易崩。
 
 最近更新：
 (1.15 版 --> 1.16 版)
-加了泰坦。
-加了泰坦激光和Tachyon Prism（速子棱镜，超高射速超低单次伤害的速子矛，速子轨迹是彩虹色的，泰拉瑞亚玩家别在意）。
-加了Hyperdimensional Shield(超级盾)、Hyperdimensional Energy Core(超级反应堆)、Hyperdimensional Jump Drive(超级跃迁引擎)。
+1.加了泰坦。
+2.加了泰坦激光和Tachyon Prism（速子棱镜，超高射速超低单次伤害的速子矛，速子轨迹是彩虹色的，泰拉瑞亚玩家别在意）。
+3.加了Hyperdimensional Shield(超级盾)、Hyperdimensional Energy Core(超级反应堆)、Hyperdimensional Jump Drive(超级跃迁引擎)。
 
 详细内容：
 
@@ -95,41 +95,41 @@ Hyperdimensional Jump Drive(200%+ Jump Range)
 4.玩家可以选No, 就是普通开局。
 
 新的法令
-"Research Every Technology" ---科技全开法令，开启后第一个月送你所有不可重复研究的原版科技，之后每个月送玩家1级可重复研究的科技，不想要可以直接取消法令。
-"Survey Every System" --- 扫描星球法令，开启后每月自动扫描所有星球一次。
-"Experience Every Ascension Route" ---飞升事件全开法令，1个月内送你灵能飞升，基因改造和合成人飞升的所有事件，成功实现灵能半生化基因改造人。
-"More Influence" --- 负影响消耗的法令
-"Leader Luck Draw" --- 100矿抽领导人，开启后一月一抽。
+1."Research Every Technology" ---科技全开法令，开启后第一个月送你所有不可重复研究的原版科技，之后每个月送玩家1级可重复研究的科技，不想要可以直接取消法令。
+2."Survey Every System" --- 扫描星球法令，开启后每月自动扫描所有星球一次。
+3."Experience Every Ascension Route" ---飞升事件全开法令，1个月内送你灵能飞升，基因改造和合成人飞升的所有事件，成功实现灵能半生化基因改造人。
+4."More Influence" --- 负影响消耗的法令
+5."Leader Luck Draw" --- 100矿抽领导人，开启后一月一抽。
 
 新的建筑：
-3个移植原版的堕落生产建筑
-扎娜姆方尖碑
-异次元巨石（生产所有稀有资源）
-所有建筑都可以升到三级，三级建筑看上去是紫色的，比较醒目。
-堕落帝国的速子矛空间站防御模块。
+1.3个移植原版的堕落生产建筑
+2.扎娜姆方尖碑
+3.异次元巨石（生产所有稀有资源）
+4.所有建筑都可以升到三级，三级建筑看上去是紫色的，比较醒目。
+5.堕落帝国的速子矛空间站防御模块。
 
 新的船：
-自动无畏舰
-商人的飞地站
-System Construction Station(星系建造站，解散后召出一个星系)
-泰坦
+1.自动无畏舰
+2.商人的飞地站
+3.System Construction Station(星系建造站，解散后召出一个星系)
+4.泰坦
 
 新的武器：
-泰坦激光
-Tachyon Prism（速子棱镜，超高射速超低单次伤害的速子矛，速子轨迹是彩虹色的，泰拉瑞亚玩家别在意）。
+1.泰坦激光
+2.Tachyon Prism（速子棱镜，超高射速超低单次伤害的速子矛，速子轨迹是彩虹色的，泰拉瑞亚玩家别在意）。
 
 新的巨构建筑：
-"Artificial Paradise" --- 说白了就是可以把岩石行星转成盖亚，省电版的地形改造。
-"Create Planet"---绕着恒星或气体巨行星建造行星（盖亚）
-"Create Many Planets" --- 造16个行星，要干掉星系内其他行星，美其名曰作为材料，实则是腾地方避免出现星球撞在一起的情况。
-还有一个机械行星版的上面三个建筑（需要Planetary Computer mod，当然你没有也没事，你会得到原版里面合成人暴动生成的AI星）
-”Modify Ringworld“ --- 可以把环的不可居住部分改造成可居住部分。
+1."Artificial Paradise" --- 说白了就是可以把岩石行星转成盖亚，省电版的地形改造。
+2."Create Planet"---绕着恒星或气体巨行星建造行星（盖亚）
+3."Create Many Planets" --- 造16个行星，要干掉星系内其他行星，美其名曰作为材料，实则是腾地方避免出现星球撞在一起的情况。
+4.还有一个机械行星版的上面三个建筑（需要Planetary Computer mod，当然你没有也没事，你会得到原版里面合成人暴动生成的AI星）
+5.”Modify Ringworld“ --- 可以把环的不可居住部分改造成可居住部分。
 
 新的船身模块：
-超强版战舰模块，一个能装6把光矛自带13个大槽和2个辅助槽。
-超强版自动无畏舰模块和商人站模块，其中自动无畏舰艇模块能带9把光矛。
+1.超强版战舰模块，一个能装6把光矛自带13个大槽和2个辅助槽。
+2.超强版自动无畏舰模块和商人站模块，其中自动无畏舰艇模块能带9把光矛。
 
 新的船只组件：
-Hyperdimensional Shield(超级盾)
-Hyperdimensional Energy Core(超级反应堆)
-Hyperdimensional Jump Drive(超级跃迁引擎，200%+跃迁距离)
+1.Hyperdimensional Shield(超级盾)
+2.Hyperdimensional Energy Core(超级反应堆)
+3.Hyperdimensional Jump Drive(超级跃迁引擎，200%+跃迁距离)
