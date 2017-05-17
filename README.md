@@ -95,11 +95,11 @@ Hyperdimensional Jump Drive(200%+ Jump Range)
 4.玩家可以选No, 就是普通开局。
 
 新的法令
-1."Research Every Technology" ---科技全开法令，开启后第一个月送你所有不可重复研究的原版科技，之后每个月送玩家1级可重复研究的科技，不想要可以直接取消法令。
-2."Survey Every System" --- 扫描星球法令，开启后每月自动扫描所有星球一次。
-3."Experience Every Ascension Route" ---飞升事件全开法令，1个月内送你灵能飞升，基因改造和合成人飞升的所有事件，成功实现灵能半生化基因改造人。
-4."More Influence" --- 负影响消耗的法令
-5."Leader Luck Draw" --- 100矿抽领导人，开启后一月一抽。
+"Research Every Technology" ---科技全开法令，开启后第一个月送你所有不可重复研究的原版科技，之后每个月送玩家1级可重复研究的科技，不想要可以直接取消法令。\n
+"Survey Every System" --- 扫描星球法令，开启后每月自动扫描所有星球一次。\n
+"Experience Every Ascension Route" ---飞升事件全开法令，1个月内送你灵能飞升，基因改造和合成人飞升的所有事件，成功实现灵能半生化基因改造人。\n
+"More Influence" --- 负影响消耗的法令\n
+"Leader Luck Draw" --- 100矿抽领导人，开启后一月一抽。
 
 新的建筑：
 1.3个移植原版的堕落生产建筑
