@@ -1,6 +1,6 @@
 # All-tech-All-surveyed-Initialization Mod
-A Stellaris mod
-1.16 ver.  
+A Stellaris mod  
+1.16 ver.    
 Tired of researching technologies and surveying all those systems?  
 Here is a solution.  
 1. This mod offers player a OPTIONAL dominant  start. 
@@ -69,7 +69,7 @@ New Ship Components：
 3. Hyperdimensional Jump Drive(200%+ Jump Range)  
 
 中文说明：   
-这是一个内容比较偏综合向和娱乐向的mod，平衡性不是首要考虑对象。  
+这是一个内容比较偏综合向和娱乐向的mod，平衡性不是首要考虑对象。    
 1. 玩家可以选择强力开局：25格盖亚世界，所有地块都有10+的资源，且每个地块都有人口和我自己加的三级堕落帝国生产建筑。可以选择！可以选择！可以选择！重要的事情说三遍。  
 2. 玩家可以通过法令实现科技全开，星系全部扫描，体验所有飞升路线的种族改造以及获得更多影响。  
 3. 这里面加了堕落的建筑和空间站（建筑都可以升到三级），自动无畏舰以及商人的飞地站，并且给加的船都配了可选的变态模块以实现搭载18或者27把光矛的天堂级火力。当然，你也可以不使用变态模块。  
