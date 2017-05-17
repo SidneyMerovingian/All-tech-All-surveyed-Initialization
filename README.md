@@ -1,4 +1,4 @@
-# All-tech-All-surveyed-Initialization Mod
+# All-tech & All-surveyed Initialization Mod
 A Stellaris mod  
 1.16 ver.    
 Tired of researching technologies and surveying all those systems?  
