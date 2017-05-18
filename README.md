@@ -1,6 +1,6 @@
-# All-tech & All-surveyed Initialization Mod
+# All-tech-All-surveyed-Initialization Mod
 A Stellaris mod  
-1.16 ver.    
+1.17 ver.    
 Tired of researching technologies and surveying all those systems?  
 Here is a solution.  
 1. This mod offers player a OPTIONAL dominant  start. 
@@ -15,10 +15,9 @@ Attention:
 2. DO NOT USE THE FASTEST TIME IN THE FIRST MONTH YOU ENABLED THE "Research Every Technology" EDICT. IT IS VERY LIKELY TO CAUSE A CRASH !  
 
 Recent Update:  
-(1.15 ver. --> 1.16 ver.)    
-1. Add Titan;  
-2. Add Titan Laser and Tachyon Prism(Insanely fast iridescent Tachyon Lance deals less damage per hit);  
-3. Add Hyperdimensional Shield, Hyperdimensional Energy Core and Hyperdimensional Jump Drive.  
+(1.16 ver. --> 1.17 ver.)    
+1. Add Towers of Heaven( produce influence );  
+2. Solve the compatiability problem of new weapons.  
 
 Contents:  
 
@@ -39,7 +38,8 @@ New Buildings:
 1. 3 Fallen Empire production buildings (can be upgraded to level 3)  
 2. Zanaam Obelisk (can be upgraded to level 3)  
 3. Extradimensional Monolith (produce rare resources, can be upgraded to level 3)  
-4. Fallen Empire tachyon lance orbital station.(Spaceport Module)  
+4. Fallen Empire tachyon lance orbital station(Spaceport Module)  
+5. Towers of Heaven( produce influence, can be upgraded to level 3)  
 
 New Ships (buildable):  
 1. Dreadnout  
@@ -83,10 +83,9 @@ New Ship Components：
 2. 因为科技全开法令第一个月一次性送很多科技，所以开启科技全开法令后第1个月请把时间调到2格或以下，不然很容易崩。  
 
 最近更新：  
-(1.15 版 --> 1.16 版)  
-1. 加了泰坦。  
-2. 加了泰坦激光和Tachyon Prism（速子棱镜，超高射速超低单次伤害的速子矛，速子轨迹是彩虹色的，泰拉瑞亚玩家别在意）。  
-3. 加了Hyperdimensional Shield(超级盾)、Hyperdimensional Energy Core(超级反应堆)、Hyperdimensional Jump Drive(超级跃迁引擎)。  
+(1.16 版 --> 1.17 版)  
+1. 加了天堂之塔（产影响建筑）。  
+2. 解决了和其他武器类mod的不兼容的问题。  
 
 详细内容：  
 
@@ -107,8 +106,9 @@ New Ship Components：
 1. 3个移植原版的堕落生产建筑  
 2. 扎娜姆方尖碑  
 3. 异次元巨石（生产所有稀有资源）  
-4. 所有建筑都可以升到三级，三级建筑看上去是紫色的，比较醒目。  
+4. 天堂之塔（生产影响）  
 5. 堕落帝国的速子矛空间站防御模块。  
+4. 所有建筑都可以升到三级，三级建筑看上去是紫色的，比较醒目。  
 
 新的船：
 1. 自动无畏舰    
