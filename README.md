@@ -1,6 +1,6 @@
 # All-tech-All-surveyed-Initialization Mod
 A Stellaris mod  
-1.17 ver.    
+1.18 ver.    
 Tired of researching technologies and surveying all those systems?  
 Here is a solution.  
 1. This mod offers player a OPTIONAL dominant  start. 
@@ -15,9 +15,11 @@ Attention:
 2. DO NOT USE THE FASTEST TIME IN THE FIRST MONTH YOU ENABLED THE "Research Every Technology" EDICT. IT IS VERY LIKELY TO CAUSE A CRASH !  
 
 Recent Update:  
-(1.16 ver. --> 1.17 ver.)    
-1. Add Towers of Heaven( produce influence );  
-2. Solve the compatiability problem of new weapons.  
+(1.17 ver. --> 1.18 ver.)    
+1. Add Curvature Truster( super fast );  
+2. Add planet edict Reclaim Wasteland( Add 1 more tile to your planet );  
+3. Add country edict Everybody Loves Us( Make other civilizations friendlier);  
+4. Add country edict Become Fallen Empire( Change your country type ).   
 
 Contents:  
 
@@ -33,6 +35,9 @@ New Edicts:
 3. "Experience Every Ascension Route" --- An edict that unlocks all the events of psionic, genetic and synthetic ascension routes in 1 month.  
 4. "More Influence" --- An edict that offers player more influence in lieu of consuming.  
 5. "Leader Luck Draw" --- An edict allows players to spend 100 minerals to get an certain type of leader whose skill is random . The "Leader Luck Draw" is held every month.  
+6. "Reclaim Wasteland" --- Add 1 more tile to your planet.  
+7. "Everybody Loves Us" --- Make other civilizations friendlier.  
+8. "Become Fallen Empire" --- Change your country type.  
 
 New Buildings:  
 1. 3 Fallen Empire production buildings (can be upgraded to level 3)  
@@ -67,6 +72,7 @@ New Ship Components：
 1. Hyperdimensional Shield  
 2. Hyperdimensional Energy Core  
 3. Hyperdimensional Jump Drive(200%+ Jump Range)  
+4. Curvature Truster( 300%+ Speed )  
 
 中文说明：   
 这是一个内容比较偏综合向和娱乐向的mod，平衡性不是首要考虑对象。    
@@ -83,9 +89,11 @@ New Ship Components：
 2. 因为科技全开法令第一个月一次性送很多科技，所以开启科技全开法令后第1个月请把时间调到2格或以下，不然很容易崩。  
 
 最近更新：  
-(1.16 版 --> 1.17 版)  
-1. 加了天堂之塔（产影响建筑）。  
-2. 解决了和其他武器类mod的不兼容的问题。  
+(1.17版 --> 1.18版)    
+1. 增加Curvature Truster（速度超快）;  
+2. 增加行星法令Reclaim Wasteland（增加一个地块）;  
+3. 增加国家法令Everybody Loves Us（让其他文明对你友好）;  
+4. 增加国家法令Become Fallen Empire（改变国家类型）。     
 
 详细内容：  
 
@@ -101,6 +109,9 @@ New Ship Components：
 3. "Experience Every Ascension Route" ---飞升事件全开法令，1个月内送你灵能飞升，基因改造和合成人飞升的所有事件，成功实现灵能半生化基因改造人。  
 4. "More Influence" --- 负影响消耗的法令    
 5. "Leader Luck Draw" --- 100矿抽领导人，开启后一月一抽。    
+6. "Reclaim Wasteland" --- 增加一个地块。  
+7. "Everybody Loves Us" --- 让其他文明对你友好。  
+8. "Become Fallen Empire" --- 改变国家类型。  
 
 新的建筑：
 1. 3个移植原版的堕落生产建筑  
@@ -135,3 +146,4 @@ New Ship Components：
 1. Hyperdimensional Shield(超级盾)  
 2. Hyperdimensional Energy Core(超级反应堆)  
 3. Hyperdimensional Jump Drive(超级跃迁引擎，200%+跃迁距离)  
+4. Curvature Truster(超级推进器，300%亚光速下速度)  
