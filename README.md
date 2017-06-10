@@ -1,6 +1,6 @@
 # All-tech-All-surveyed-Initialization Mod
 A Stellaris mod  
-1.18 ver.    
+1.19 ver.    
 Tired of researching technologies and surveying all those systems?  
 Here is a solution.  
 1. This mod offers player a OPTIONAL dominant  start. 
@@ -15,11 +15,14 @@ Attention:
 2. DO NOT USE THE FASTEST TIME IN THE FIRST MONTH YOU ENABLED THE "Research Every Technology" EDICT. IT IS VERY LIKELY TO CAUSE A CRASH !  
 
 Recent Update:  
-(1.17 ver. --> 1.18 ver.)    
-1. Add Curvature Truster( super fast );  
-2. Add planet edict Reclaim Wasteland( Add 1 more tile to your planet );  
-3. Add country edict Everybody Loves Us( Make other civilizations friendlier);  
-4. Add country edict Become Fallen Empire( Change your country type ).   
+(1.18 ver. --> 1.19 ver.)    
+1. Add Anthelion( iridescent titan laser );  
+2. Add Hyperdimensional Armor( super armor );  
+3. Add Hyperdimensional Complex( super auxiliary component );  
+4. Add planet edict Abandon Planet( kill all the population and remove all the buildings on the planet );  
+5. Add country edict Automatic Fleet Production( You will recieve a free fleet every year );  
+6. Add country edict Automatic Species Purge( Replace all the alien species within your border with your own species every month );   
+7. Add policy A&AI Edicts( You can choose to disable all the edicts in this mod ).  
 
 Contents:  
 
@@ -38,23 +41,30 @@ New Edicts:
 6. "Reclaim Wasteland" --- Add 1 more tile to your planet.  
 7. "Everybody Loves Us" --- Make other civilizations friendlier.  
 8. "Become Fallen Empire" --- Change your country type.  
+9. "Abandon Planet" --- Kill all the population and remove all the buildings on the planet.  
+10. "Automatic Fleet Production" --- You will recieve a free fleet every year.  
+11. "Automatic Species Purge" --- Replace all the alien species within your border with your own species every month.  
+
+New Policies:  
+1. "A&AI Edicts" --- Enable or disable all the edicts provided by this mod.  
 
 New Buildings:  
-1. 3 Fallen Empire production buildings (can be upgraded to level 3)  
-2. Zanaam Obelisk (can be upgraded to level 3)  
-3. Extradimensional Monolith (produce rare resources, can be upgraded to level 3)  
-4. Fallen Empire tachyon lance orbital station(Spaceport Module)  
-5. Towers of Heaven( produce influence, can be upgraded to level 3)  
+1. 3 Fallen Empire production buildings ( can be upgraded to level 3 )  
+2. Zanaam Obelisk ( can be upgraded to level 3 )  
+3. Extradimensional Monolith ( produce rare resources, can be upgraded to level 3 )  
+4. Fallen Empire tachyon lance orbital station( Spaceport Module )  
+5. Towers of Heaven( produce influence, can be upgraded to level 3 )  
 
 New Ships (buildable):  
 1. Dreadnout  
 2. Enclave Station  
-3. System Construction Station(Spawns a system after being disbanded)  
+3. System Construction Station( Spawns a system after being disbanded )  
 4. Titan  
 
 New Weapon:  
 1. Titan Laser  
-2. Tachyon Prism(Insanely fast iridescent Tachyon Lance deals less damage per hit)  
+2. Tachyon Prism( Insanely fast iridescent Tachyon Lance deals less damage per hit )  
+3. Anthelion( Iridescent Titan Laser , more powerful than the original Titan Laser )  
 
 New Megastructures:  
 1. "Artificial Paradise" --- A megastructure which is designed to change any rocky planet into a gaia world. ,
@@ -71,8 +81,10 @@ New Ship Sections:
 New Ship Components：  
 1. Hyperdimensional Shield  
 2. Hyperdimensional Energy Core  
-3. Hyperdimensional Jump Drive(200%+ Jump Range)  
+3. Hyperdimensional Jump Drive( 200%+ Jump Range )  
 4. Curvature Truster( 300%+ Speed )  
+5. Hyperdimensional Armor  
+6. Hyperdimensional Complex  
 
 中文说明：   
 这是一个内容比较偏综合向和娱乐向的mod，平衡性不是首要考虑对象。    
@@ -89,11 +101,14 @@ New Ship Components：
 2. 因为科技全开法令第一个月一次性送很多科技，所以开启科技全开法令后第1个月请把时间调到2格或以下，不然很容易崩。  
 
 最近更新：  
-(1.17版 --> 1.18版)    
-1. 增加Curvature Truster（速度超快）;  
-2. 增加行星法令Reclaim Wasteland（增加一个地块）;  
-3. 增加国家法令Everybody Loves Us（让其他文明对你友好）;  
-4. 增加国家法令Become Fallen Empire（改变国家类型）。     
+（1.18 版 --> 1.19 版）    
+1. 添加 Anthelion( 彩虹色威力加强版泰坦激光 );  
+2. 添加 Hyperdimensional Armor( 超级装甲 );  
+3. 添加 Hyperdimensional Complex( 超级辅助组件 );  
+4. 添加 planet edict Abandon Planet( 杀死星球上的所有人口，拆除所有建筑 );  
+5. 添加 国家法令 Automatic Fleet Production( 每年得到一支免费舰队 );  
+6. 添加 国家法令 Automatic Species Purge( 每月将你境内的外星种族全部替换成原生种族 );   
+7. 添加 政策 A&AI Edicts( 你现在可以通过这个政策禁用这个mod提供的所有法令 )。      
 
 详细内容：  
 
@@ -103,7 +118,7 @@ New Ship Components：
 3. 玩家选“Win”选项就会赢。  
 4. 玩家可以选No, 就是普通开局。  
 
-新的法令  
+新的法令：  
 1. "Research Every Technology" ---科技全开法令，开启后第一个月送你所有不可重复研究的原版科技，之后每个月送玩家1级可重复研究的科技，不想要可以直接取消法令。    
 2. "Survey Every System" --- 扫描星球法令，开启后每月自动扫描所有星球一次。    
 3. "Experience Every Ascension Route" ---飞升事件全开法令，1个月内送你灵能飞升，基因改造和合成人飞升的所有事件，成功实现灵能半生化基因改造人。  
@@ -112,6 +127,12 @@ New Ship Components：
 6. "Reclaim Wasteland" --- 增加一个地块。  
 7. "Everybody Loves Us" --- 让其他文明对你友好。  
 8. "Become Fallen Empire" --- 改变国家类型。  
+9. "Abandon Planet" --- 杀死星球上的所有人口，拆除所有建筑。   
+10. "Automatic Fleet Production" --- 每年获得一支免费舰队。  
+11. "Automatic Species Purge" --- 每月将你境内的外星种族全部替换成原生种族。  
+
+新的政策：  
+1. "A&AI Edicts" --- 选择启用或者禁用这个mod新增的这些法令。  
 
 新的建筑：
 1. 3个移植原版的堕落生产建筑  
@@ -129,7 +150,8 @@ New Ship Components：
 
 新的武器：  
 1. 泰坦激光  
-2. Tachyon Prism（速子棱镜，超高射速超低单次伤害的速子矛，速子轨迹是彩虹色的，泰拉瑞亚玩家别在意）。  
+2. Tachyon Prism（速子棱镜，超高射速超低单次伤害的速子矛，速子轨迹是彩虹色的，泰拉瑞亚玩家别在意）  
+3. Anthelion（幻日，彩虹色威力加强版泰坦激光）  
 
 新的巨构建筑：  
 1. "Artificial Paradise" --- 说白了就是可以把岩石行星转成盖亚，省电版的地形改造。  
@@ -147,3 +169,5 @@ New Ship Components：
 2. Hyperdimensional Energy Core(超级反应堆)  
 3. Hyperdimensional Jump Drive(超级跃迁引擎，200%+跃迁距离)  
 4. Curvature Truster(超级推进器，300%亚光速下速度)  
+5. Hyperdimensional Armor(超级装甲)  
+6. Hyperdimensional Complex(超级辅助组件)  
