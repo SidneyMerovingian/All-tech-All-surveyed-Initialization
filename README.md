@@ -1,28 +1,26 @@
 # All-tech-All-surveyed-Initialization Mod
 A Stellaris mod  
-1.19 ver.    
+1.20 ver.    
 Tired of researching technologies and surveying all those systems?  
 Here is a solution.  
 1. This mod offers player a OPTIONAL dominant  start. 
-2. Player can use edicts to survey all the systems, reasearch all the vanilla technologies, experience all the ascension route and even gain more influence.  
-3. Player can build better production buildings, and use better ships with better sections.  
-4. Player can build planets.  
+2. Player can use edicts to survey all the systems, reasearch all the vanilla technologies, experience all the ascension route, gain more influence, et cetera.  
+3. Player can build better production buildings, and use better ships with better sections armed with new weapon.  
+4. Player can build planets, and even construct new systems.  
 5. AI will never use the anything that offered by this mod.  
-6. It might be imbalanced, yet everything else is up to the player except the dominant start.  
+6. It might be imbalanced, yet everything is up to the player. Basically, everything offered by this mod is optional  
 
 Attention:  
 1. DO NOT ENABLE THE "Experience Every Ascension Route" EDICT AND "Research Every Technology" EDICT IN THE SAME MONTH FOR IT WILL CAUSE A CRASH !  
 2. DO NOT USE THE FASTEST TIME IN THE FIRST MONTH YOU ENABLED THE "Research Every Technology" EDICT. IT IS VERY LIKELY TO CAUSE A CRASH !  
 
 Recent Update:  
-(1.18 ver. --> 1.19 ver.)    
-1. Add Anthelion( iridescent titan laser );  
-2. Add Hyperdimensional Armor( super armor );  
-3. Add Hyperdimensional Complex( super auxiliary component );  
-4. Add planet edict Abandon Planet( kill all the population and remove all the buildings on the planet );  
-5. Add country edict Automatic Fleet Production( You will recieve a free fleet every year );  
-6. Add country edict Automatic Species Purge( Replace all the alien species within your border with your own species every month );   
-7. Add policy A&AI Edicts( You can choose to disable all the edicts in this mod ).  
+(1.19 ver. --> 1.20 ver.)    
+1. Add Assault Gundam & Defense Gundam( Super Army| If you conquer planets with these armies, you will have 2 more choices once you successfully controled the planet );  
+2. Add Generate Crisis( literally generate crises );  
+3. Add Instant Construction & Instant Reproduction planetary edict( Construct all the buildings in 1 day; Overpopulate the planet in 1 day );  
+4. Add Genetic Enhancement( Modify your main species and turn it into a god-like species );  
+5. Small bug fixes.  
 
 Contents:  
 
@@ -44,6 +42,10 @@ New Edicts:
 9. "Abandon Planet" --- Kill all the population and remove all the buildings on the planet.  
 10. "Automatic Fleet Production" --- You will recieve a free fleet every year.  
 11. "Automatic Species Purge" --- Replace all the alien species within your border with your own species every month.  
+12. "Generate Crisis" --- literally generate crises.  
+13. "Instant Construction" --- Construct all the buildings in 1 day.  
+14. "Instant Reproduction" --- Overpopulate the planet in 1 day.   
+15. "Genetic Enhancement" --- Modify your main species and turn it into a god-like species.  
 
 New Policies:  
 1. "A&AI Edicts" --- Enable or disable all the edicts provided by this mod.  
@@ -60,6 +62,9 @@ New Ships (buildable):
 2. Enclave Station  
 3. System Construction Station( Spawns a system after being disbanded )  
 4. Titan  
+
+New Armies:  
+1.Assault Gundam & Defense Gundam( Super Army| If you conquer planets with these armies, you will have 2 more choices once you successfully controled the planet )  
 
 New Weapon:  
 1. Titan Laser  
@@ -93,7 +98,7 @@ New Ship Components：
 3. 这里面加了堕落的建筑和空间站（建筑都可以升到三级），自动无畏舰以及商人的飞地站，并且给加的船都配了可选的变态模块以实现搭载18或者27把光矛的天堂级火力。当然，你也可以不使用变态模块。  
 4. 可以建造行星（盖亚，机械星（需要Planetary Computer mod，否则你只会得到普通的AI星））。也可以一口气建造16颗行星。也可以通过巨构建筑把任何岩石行星转化成盖亚或者机械星。   
 5. 电脑不会造这个mod里面新加的东西。  
-6. 我给自己的mod做了汉化，但是是基于p社的官方简体中文体系做的，所以想看到中文的只能等官方中文恢复了（有生之年系列）。或者有心的小伙伴可以把我的那个l_simp_chinese文件里面的东西搬出来和贴吧汉化包整合在一起。  
+6. 我给自己的mod做了汉化，汉化补丁的链接在说明的最上面。  
 7. 我写mod时没有什么替换的文件，而且有刻意避免冲突，所以兼容性很好。  
 
 注意：  
@@ -101,14 +106,12 @@ New Ship Components：
 2. 因为科技全开法令第一个月一次性送很多科技，所以开启科技全开法令后第1个月请把时间调到2格或以下，不然很容易崩。  
 
 最近更新：  
-（1.18 版 --> 1.19 版）    
-1. 添加 Anthelion( 彩虹色威力加强版泰坦激光 );  
-2. 添加 Hyperdimensional Armor( 超级装甲 );  
-3. 添加 Hyperdimensional Complex( 超级辅助组件 );  
-4. 添加 planet edict Abandon Planet( 杀死星球上的所有人口，拆除所有建筑 );  
-5. 添加 国家法令 Automatic Fleet Production( 每年得到一支免费舰队 );  
-6. 添加 国家法令 Automatic Species Purge( 每月将你境内的外星种族全部替换成原生种族 );   
-7. 添加 政策 A&AI Edicts( 你现在可以通过这个政策禁用这个mod提供的所有法令 )。      
+（1.19 版 --> 1.20 版）    
+1. 添加 高达进攻部队和高达防御部队（超强陆军，使用这两种部队攻占星球之后，玩家可以选择直接占领整个星球、杀光居民或者正常占领）；  
+2. 添加 制造天灾法令（可以选择性的触发天灾，和控制台差不多）；  
+3. 添加 超速建筑和超速繁殖行星法令（一天之内铺满建筑和一天之内铺满人口的法令）；       
+4. 添加 基因强化法令（将你的主要种族洗成基因层面的超级种族）；   
+5. 修复一些bug。   
 
 详细内容：  
 
@@ -119,20 +122,24 @@ New Ship Components：
 4. 玩家可以选No, 就是普通开局。  
 
 新的法令：  
-1. "Research Every Technology" ---科技全开法令，开启后第一个月送你所有不可重复研究的原版科技，之后每个月送玩家1级可重复研究的科技，不想要可以直接取消法令。    
+1. "研究所有科技" ---科技全开法令，开启后第一个月送你所有不可重复研究的原版科技，之后每个月送玩家1级可重复研究的科技，不想要可以直接取消法令。    
 2. "Survey Every System" --- 扫描星球法令，开启后每月自动扫描所有星球一次。    
-3. "Experience Every Ascension Route" ---飞升事件全开法令，1个月内送你灵能飞升，基因改造和合成人飞升的所有事件，成功实现灵能半生化基因改造人。  
-4. "More Influence" --- 负影响消耗的法令    
-5. "Leader Luck Draw" --- 100矿抽领导人，开启后一月一抽。    
-6. "Reclaim Wasteland" --- 增加一个地块。  
-7. "Everybody Loves Us" --- 让其他文明对你友好。  
-8. "Become Fallen Empire" --- 改变国家类型。  
-9. "Abandon Planet" --- 杀死星球上的所有人口，拆除所有建筑。   
-10. "Automatic Fleet Production" --- 每年获得一支免费舰队。  
-11. "Automatic Species Purge" --- 每月将你境内的外星种族全部替换成原生种族。  
+3. "体验所有飞升路线" ---飞升事件全开法令，1个月内送你灵能飞升，基因改造和合成人飞升的所有事件，成功实现灵能半生化基因改造人。  
+4. "更多影响" --- 负影响消耗的法令    
+5. "智库抽奖" --- 100矿抽领导人，开启后一月一抽。    
+6. "开垦荒地" --- 增加一个地块。  
+7. "强制性友好外交" --- 让其他文明对你友好。  
+8. "成为堕落帝国" --- 改变国家类型。  
+9. "放弃行星" --- 杀死星球上的所有人口，拆除所有建筑。   
+10. "自动化舰队生产" --- 每年获得一支免费舰队。  
+11. "自动化种族净化" --- 每月将你境内的外星种族全部替换成原生种族。  
+12. "制造天灾" --- 可以选择性的触发天灾，和控制台差不多   
+13. "超速建筑" --- 一天之内给整个整个行星铺满建筑的行星法令  
+14. "超速繁殖" --- 一天之内让行星满人口的法令  
+15. "基因强化法令" --- 将你的主要种族洗成基因层面的超级种族   
 
 新的政策：  
-1. "A&AI Edicts" --- 选择启用或者禁用这个mod新增的这些法令。  
+1. "A&AI 法令" --- 选择启用或者禁用这个mod新增的这些法令。  
 
 新的建筑：
 1. 3个移植原版的堕落生产建筑  
@@ -145,29 +152,32 @@ New Ship Components：
 新的船：
 1. 自动无畏舰    
 2. 商人的飞地站  
-3. System Construction Station(星系建造站，解散后召出一个星系)  
-4. 泰坦  
+3. 星系建造站(解散后召出一个星系)  
+4. 泰坦
+
+新的陆军：  
+1. 高达进攻部队和高达防御部队( 超强陆军，使用高达进攻部队攻占星球之后，玩家可以选择直接占领整个星球、杀光居民或者正常占领 )  
 
 新的武器：  
 1. 泰坦激光  
-2. Tachyon Prism（速子棱镜，超高射速超低单次伤害的速子矛，速子轨迹是彩虹色的，泰拉瑞亚玩家别在意）  
-3. Anthelion（幻日，彩虹色威力加强版泰坦激光）  
+2. 速子棱镜（超高射速超低单次伤害的速子矛，速子轨迹是彩虹色的，泰拉瑞亚玩家别在意）  
+3. 幻日（彩虹色威力加强版泰坦激光）  
 
 新的巨构建筑：  
-1. "Artificial Paradise" --- 说白了就是可以把岩石行星转成盖亚，省电版的地形改造。  
-2. "Create Planet"---绕着恒星或气体巨行星建造行星（盖亚）  
-3. "Create Many Planets" --- 造16个行星，要干掉星系内其他行星，美其名曰作为材料，实则是腾地方避免出现星球撞在一起的情况。  
+1. "人造盖亚天堂" --- 说白了就是可以把岩石行星转成盖亚，省电版的地形改造。  
+2. "建造盖亚星球"---绕着恒星或气体巨行星建造行星（盖亚）  
+3. ""建造盖亚行星系统" --- 造16个行星，要干掉星系内其他行星，美其名曰作为材料，实则是腾地方避免出现星球撞在一起的情况。  
 4. 还有一个机械行星版的上面三个建筑（需要Planetary Computer mod，当然你没有也没事，你会得到原版里面合成人暴动生成的AI星）  
-5. ”Modify Ringworld“ --- 可以把环的不可居住部分改造成可居住部分。  
+5. ”改造环形世界“ --- 可以把环的不可居住部分改造成可居住部分。  
 
 新的船身模块：  
 1. 超强版战舰模块，一个能装6把光矛自带13个大槽和2个辅助槽。  
 2. 超强版自动无畏舰模块和商人站模块，其中自动无畏舰艇模块能带9把光矛。  
 
 新的船只组件：  
-1. Hyperdimensional Shield(超级盾)  
-2. Hyperdimensional Energy Core(超级反应堆)  
-3. Hyperdimensional Jump Drive(超级跃迁引擎，200%+跃迁距离)  
-4. Curvature Truster(超级推进器，300%亚光速下速度)  
-5. Hyperdimensional Armor(超级装甲)  
-6. Hyperdimensional Complex(超级辅助组件)  
+1. 高维能量盾(超级盾)  
+2. 高维能量源(超级反应堆)  
+3. 高维跃迁引擎(超级跃迁引擎，200%+跃迁距离)  
+4. 曲率推进器(超级推进器，300%亚光速下速度)  
+5. 高维装甲(超级装甲)  
+6. 高维综合体(超级辅助组件)  
