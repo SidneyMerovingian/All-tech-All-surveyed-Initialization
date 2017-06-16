@@ -1,6 +1,6 @@
 # All-tech-All-surveyed-Initialization Mod
 A Stellaris mod  
-1.20 ver.    
+1.21 ver.    
 Tired of researching technologies and surveying all those systems?  
 Here is a solution.  
 1. This mod offers player a OPTIONAL dominant  start. 
@@ -15,12 +15,11 @@ Attention:
 2. DO NOT USE THE FASTEST TIME IN THE FIRST MONTH YOU ENABLED THE "Research Every Technology" EDICT. IT IS VERY LIKELY TO CAUSE A CRASH !  
 
 Recent Update:  
-(1.19 ver. --> 1.20 ver.)    
-1. Add Assault Gundam & Defense Gundam( Super Army| If you conquer planets with these armies, you will have 2 more choices once you successfully controled the planet );  
-2. Add Generate Crisis( literally generate crises );  
-3. Add Instant Construction & Instant Reproduction planetary edict( Construct all the buildings in 1 day; Overpopulate the planet in 1 day );  
-4. Add Genetic Enhancement( Modify your main species and turn it into a god-like species );  
-5. Small bug fixes.  
+(1.20 ver. --> 1.21 ver.)    
+1. Add Hyperdimensional Sensor( Super sensor );  
+2. Add Smart Construction edict( Allow your governors to build A&AI buildings );  
+3. Add armed sections for every kind of civilian ships( these sections allow your civilian ships to carry weapon );   
+4. Small bug fixes.  
 
 Contents:  
 
@@ -46,6 +45,7 @@ New Edicts:
 13. "Instant Construction" --- Construct all the buildings in 1 day.  
 14. "Instant Reproduction" --- Overpopulate the planet in 1 day.   
 15. "Genetic Enhancement" --- Modify your main species and turn it into a god-like species.  
+16. "Smart Construction" --- Allow your governors to build A&AI buildings.  
 
 New Policies:  
 1. "A&AI Edicts" --- Enable or disable all the edicts provided by this mod.  
@@ -79,10 +79,11 @@ New Megastructures:
 5. ”Modify Ringworld“ --- A megastructure which turns a ringworld section into a habitable section.  
 
 New Ship Sections:  
- 1. 3 Battle Ship Sections, each contains 6 extra-large weapon slots 13 utility slots and 2 auxiliary slots.  
- 2. Enclave Station Sections and Automated Dreadnought Sections.
- 3. Titan Sections.
-   
+1. 3 Battle Ship Sections, each contains 6 extra-large weapon slots 13 utility slots and 2 auxiliary slots.  
+2. Enclave Station Sections and Automated Dreadnought Sections.  
+3. Titan Sections.  
+4. armed sections for every kind of civilian ships( these sections allow your civilian ships to carry weapons ).  
+
 New Ship Components：  
 1. Hyperdimensional Shield  
 2. Hyperdimensional Energy Core  
@@ -90,6 +91,7 @@ New Ship Components：
 4. Curvature Truster( 300%+ Speed )  
 5. Hyperdimensional Armor  
 6. Hyperdimensional Complex  
+7. Hyperdimensional Sensor  
 
 中文说明：   
 这是一个内容比较偏综合向和娱乐向的mod，平衡性不是首要考虑对象。    
@@ -106,12 +108,11 @@ New Ship Components：
 2. 因为科技全开法令第一个月一次性送很多科技，所以开启科技全开法令后第1个月请把时间调到2格或以下，不然很容易崩。  
 
 最近更新：  
-（1.19 版 --> 1.20 版）    
-1. 添加 高达进攻部队和高达防御部队（超强陆军，使用这两种部队攻占星球之后，玩家可以选择直接占领整个星球、杀光居民或者正常占领）；  
-2. 添加 制造天灾法令（可以选择性的触发天灾，和控制台差不多）；  
-3. 添加 超速建筑和超速繁殖行星法令（一天之内铺满建筑和一天之内铺满人口的法令）；       
-4. 添加 基因强化法令（将你的主要种族洗成基因层面的超级种族）；   
-5. 修复一些bug。   
+（1.20 版 --> 1.21 版）    
+1. 添加 高维空间探测器（超强探测器）；  
+2. 添加 智能建设法令（允许你的星区总督建造A&AI mod添加的建筑）；  
+3. 添加 所有民用船的战斗模块（民用船可以选用战斗型船身，以获得攻击能力）；          
+4. 修复一些bug。   
 
 详细内容：  
 
@@ -123,8 +124,8 @@ New Ship Components：
 
 新的法令：  
 1. "研究所有科技" ---科技全开法令，开启后第一个月送你所有不可重复研究的原版科技，之后每个月送玩家1级可重复研究的科技，不想要可以直接取消法令。    
-2. "扫描所有星球" --- 扫描星球法令，开启后每月自动扫描所有星球一次。    
-3. "体验所有飞升路线" ---飞升事件全开法令，1个月内送你灵能飞升，基因改造和合成人飞升的所有事件，成功实现灵能半生化基因改造人。  
+2. "扫描所有星球" --- 扫描星球法令，开启后每月自动扫描所有星球一次。    
+3. "体验所有飞升路线" ---飞升事件全开法令，1个月内送你灵能飞升，基因改造和合成人飞升的所有事件，成功实现灵能半生化基因改造人。  
 4. "更多影响" --- 负影响消耗的法令    
 5. "智库抽奖" --- 100矿抽领导人，开启后一月一抽。    
 6. "开垦荒地" --- 增加一个地块。  
@@ -137,6 +138,7 @@ New Ship Components：
 13. "超速建筑" --- 一天之内给整个整个行星铺满建筑的行星法令  
 14. "超速繁殖" --- 一天之内让行星满人口的法令  
 15. "基因强化法令" --- 将你的主要种族洗成基因层面的超级种族   
+16. "智能建设" --- 允许你的星区总督建造A&AI mod添加的建筑  
 
 新的政策：  
 1. "A&AI 法令" --- 选择启用或者禁用这个mod新增的这些法令。  
@@ -173,6 +175,7 @@ New Ship Components：
 新的船身模块：  
 1. 超强版战舰模块，一个能装6把光矛自带13个大槽和2个辅助槽。  
 2. 超强版自动无畏舰模块和商人站模块，其中自动无畏舰艇模块能带9把光矛。  
+3. 所有民用船的战斗模块（民用船可以选用战斗型船身，以获得攻击能力）。  
 
 新的船只组件：  
 1. 高维能量盾(超级盾)  
@@ -181,3 +184,4 @@ New Ship Components：
 4. 曲率推进器(超级推进器，300%亚光速下速度)  
 5. 高维装甲(超级装甲)  
 6. 高维综合体(超级辅助组件)  
+7. 高维空间探测器(超强探测器)  
